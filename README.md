@@ -1,1 +1,1 @@
-##The Instructor of this course is Dr. Angela Yu
+<p>The Instructor of this course is Dr. Angela Yu</p>
